@@ -1,1 +1,3 @@
 # Website
+
+This is my first build up for my personal website to promote myself. I spent quite a bit of time learning to code navbars and adding links to websites through pictures. It was a little difficult for someone with new and limited knowledge but i would like to thank everyone on the web who dont know but helped me tremendously. Not only did I learn new coding skills and column work and margins but I truly realized how great and helpful the coding community can be.
